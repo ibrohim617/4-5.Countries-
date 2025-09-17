@@ -1,0 +1,85 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Hungary",
+      "population": 9749763,
+      "region": "Central Europe",
+      "capital": "Budapest",
+      "flag": "https://flagcdn.com/hu.svg",
+      "evro": true
+    },
+    {
+      "id": 2,
+      "name": "Taiwan",
+      "population": 23503349,
+      "region": "Eastern Asia",
+      "capital": "Taipei",
+      "flag": "https://flagcdn.com/tw.svg",
+      "evro": false
+    },
+    {
+      "id": 3,
+      "name": "Wallis and Futuna",
+      "population": 11750,
+      "region": "Polynesia",
+      "capital": "Mata-Utu",
+      "flag": "https://flagcdn.com/wf.svg",
+      "evro": true
+    },
+    {
+      "id": 4,
+      "name": "Barbados",
+      "population": 287371,
+      "region": "Caribbean",
+      "capital": "Bridgetown",
+      "flag": "https://flagcdn.com/bb.svg",
+      "evro": false
+    },
+    {
+      "id": 5,
+      "name": "Uzbekistan",
+      "population": 34232050,
+      "region": "Central Asia",
+      "capital": "Tashkent",
+      "flag": "https://flagcdn.com/uz.svg",
+      "evro": false
+    },
+    {
+      "id": 6,
+      "name": "Kazakhstan",
+      "population": 18776707,
+      "region": "Central Asia",
+      "capital": "Nur-Sultan",
+      "flag": "https://flagcdn.com/kz.svg",
+      "evro": false
+    },
+    {
+      "id": 7,
+      "name": "Brazil",
+      "population": 212559417,
+      "region": "South America",
+      "capital": "Brasília",
+      "flag": "https://flagcdn.com/br.svg",
+      "evro": false
+    },
+    {
+      "id": 8,
+      "name": "Nigeria",
+      "population": 206139589,
+      "region": "Western Africa",
+      "capital": "Abuja",
+      "flag": "https://flagcdn.com/ng.svg",
+      "evro": false
+    },
+    {
+      "id": 9,
+      "name": "Australia",
+      "population": 25687041,
+      "region": "Oceania",
+      "capital": "Canberra",
+      "flag": "https://flagcdn.com/au.svg",
+      "evro": false
+    }
+  ]
+}
